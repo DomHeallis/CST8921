@@ -67,3 +67,8 @@ Original row count
 # Step 9: Analyze & Visualize Data 
 
 ![alt text](image-17.png)
+
+# step 10 delete everything
+
+![alt text](image-19.png)
+
